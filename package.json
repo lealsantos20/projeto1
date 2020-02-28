@@ -1,0 +1,12 @@
+{
+    "name":"api",
+    "version":"1.0.0",
+    "description": "Exemplo de api",
+    "main": "server.js",
+    "author": "Ivoney Leal",
+    "dependencies": {
+        "express": "*",
+        "body-parser": "*",
+        "fs": "0.0.1-security"
+    }
+}
